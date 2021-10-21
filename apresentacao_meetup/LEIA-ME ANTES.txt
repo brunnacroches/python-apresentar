@@ -1,0 +1,4 @@
+ATENÇÃO!!!
+A API do Twitter exige um conjunto de chaves de autenticação fornecidas pelo próprio Twitter  para ser acessada.
+Por questões de segurança não disponibilizaremos as chaves usadas durante o meetup.
+O Twitter disponibiliza gratuitamente chaves de acesso da sua API aos usuários que realizarem o cadastro de uma conta na sua plataforma para desenvolvedores  - https://developer.twitter.com/
